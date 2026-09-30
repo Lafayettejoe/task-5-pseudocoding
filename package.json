@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "slugify": "^1.6.9"
+  }
+}
